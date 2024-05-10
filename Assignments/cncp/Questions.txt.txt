@@ -1,0 +1,11 @@
+Questions.txt
+1. What is the process by which plants make their own food using sunlight?
+2. Which gas makes up the majority of Earth's atmosphere?
+3. How many layers are there in the OSI model?
+4. In which year did India gain independence from British colonial rule?
+5. Who is regarded as the Father of the Indian Constitution?
+6. What is the chemical symbol for the element gold?
+7. What is the smallest planet in our solar system?
+8. Which planet is often referred to as the 'Red Planet' due to its reddish appearance?
+9. What does the acronym 'LAN' stand for in computer networks?
+10.Which network topology connects each device to a central hub or switch?
